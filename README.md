@@ -95,3 +95,4 @@ Full adder
 ### TRUTH TABLE 
 ![output](./214546071-9cec85c9-3c1b-4d2b-8447-09579f349fba.png)
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
